@@ -15,3 +15,15 @@ https://github.com/slint-ui/material-python-template
 
 rewrite with slint or rewrite to simple template
 https://github.com/ccssmnn/tilly
+
+explane simple example how work
+https://github.com/thesysdev/examples/tree/main/crayon/template-js
+https://deepwiki.com/thesysdev/examples/3.1-basic-chat-implementation
+
+
+https://deepwiki.com/ccssmnn/tilly
+
+https://github.com/thesysdev/examples/tree/main/crayon/fino-crayon
+
+https://deepwiki.com/thesysdev/examples
+https://deepwiki.com/search/please-help-understand-explana_36086a1e-3a5b-4a75-99b0-1dca98f9e360
