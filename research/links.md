@@ -17,6 +17,10 @@ rewrite with slint or rewrite to simple template
 https://github.com/ccssmnn/tilly
 
 explane simple example how work
+https://crayonai.org/docs/
+https://github.com/thesysdev/crayon
+https://deepwiki.com/thesysdev/crayon
+
 https://github.com/thesysdev/examples/tree/main/crayon/template-js
 https://deepwiki.com/thesysdev/examples/3.1-basic-chat-implementation
 

@@ -1,0 +1,9 @@
+
+
+https://github.com/slint-ui/slint
+https://deepwiki.com/slint-ui/slint
+A LSP Server that adds features like auto-complete and live preview of the .slint files to many editors.
+It is bundled in a Visual Studio Code Extension available from the market place.
+A slint-viewer tool which displays the .slint files. The --auto-reload argument makes it easy to preview your UI while you are working on it (when using the LSP preview is not possible).
+https://github.com/slint-ui/slint/tree/master/tools/lsp
+https://github.com/slint-ui/slint/tree/master/tools/viewer
