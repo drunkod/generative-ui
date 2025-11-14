@@ -1,4 +1,5 @@
-
+мне нужно понять как работает live preview
+и запустить live preview на андройде
 
 https://github.com/slint-ui/slint
 https://deepwiki.com/slint-ui/slint
